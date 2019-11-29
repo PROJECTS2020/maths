@@ -1,6 +1,6 @@
 <!-- ## https://www.markdownguide.org/ -->
 
-##[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) (Coursera.org)
+## [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) (Coursera.org)
 
 **OBJECTIVES:**
 1. Understand the fundamentals of Linear Algebra.
