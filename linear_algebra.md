@@ -21,7 +21,17 @@
 
 >**Exercise #1 - Price Discovery**
 
-Instructor: *Say I go shopping on two occasions, and I buy apples and bananas, and the first time I buy two apples and three bananas and they cost eight Euros. And the second time I buy say, ten apples and one banana, and the cost is 13 Euros. And the As and the Bs here, are the price of a single apple and a single banana. In these "simultaneous equations", how would you discover the price of individual apples and bananas? 
+Instructor: *Say I go shopping on two occasions, and I buy apples and bananas, and the first time I buy two apples and three bananas and they cost eight Euros. And the second time I buy say, ten apples and one banana, and the cost is 13 Euros. And the As and the Bs here, are the price of a single apple and a single banana. In these "simultaneous equations", how would you discover the price of individual apples and bananas?*
+
++
+.....
+2a + 2b = 8USD
+(English: Two apples plus two bananas equal eight U.S. dollars.)
+
+10a + 1b = 13USD
+(English: Ten apples plus one banana equals thirteen U.S. dollars.)
+.....
++
 
 *This is an example of a Linear Algebra problem. I have some "constant linear coefficients" here, these numbers 2, 10, 3, 1, that relate the "input variables" A and B, to the "output" 8 and 13; that is, if I think about a "vector" [a,b], that **describes the prices** of apples and bananas.*
 
