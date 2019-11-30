@@ -52,6 +52,6 @@ matrix problem: (matrix)[vector] = [vector]
 
 Instructor: *With **neural networks** and **machine learning**, we want the computer in effect not only to fit the equation, but to figure out what equation to use. let's say, we have some data like an histogram that looks like a population with an average and some variation or some width.*
 
->**Exercise #3 - How to Find the Optimal Value of the Parameters in an Equation Describing a Line**
+>**Exercise #3 - How to Find the Optimal Value of the Parameters in an Equation Describing a Line in an Histogram**
 
-
+Instructor: *Using that equation we would have an easy portable description of the population that we could carry around, without needing all the original data, which would free us from privacy concerns, etc.*
