@@ -47,3 +47,11 @@ matrix problem: (matrix)[vector] = [vector]
 ( 2  3 ) [ a ] = [ 8 ]
   10 1     b       13 
 ```
+
+>**Exercise #2 - Fitting an Equation to Some Data**
+
+Instructor: *With **neural networks** and **machine learning**, we want the computer in effect not only to fit the equation, but to figure out what equation to use. let's say, we have some data like an histogram that looks like a population with an average and some variation or some width.*
+
+>**Exercise #3 - How to Find the Optimal Value of the Parameters in an Equation Describing a Line**
+
+
