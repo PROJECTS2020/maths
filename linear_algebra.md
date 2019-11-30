@@ -45,5 +45,5 @@ output or price of both a and b = 8, 13
 matrix problem: (matrix)[vector] = [vector]
 
 ( 2  3 ) [ a ] = [ 8 ]
-  10 1     b      13 ]
+  10 1     b       13 
 ```
