@@ -42,9 +42,8 @@ output or price of both a and b = 8, 13
 *Then this gets **translated into a cost, to find out how many I might want to buy**. And I can write this down as a "matrix problem" where the 2, 3 is my first trip, and the 10, 1 is my second trip, and then these are then matrices, that's a matrix then, and these are vectors.* 
 
 ```
-matrix problem:
-(  2  3  ) [a] = [8]
-(  10 1  ) [b]   [13]
+matrix problem: (matrix)[vector] = [vector]
 
-(matrix)[vector] = [vector]
+( 2  3 ) [ a ] = [ 8 ]
+  10 1     b      13 ]
 ```
