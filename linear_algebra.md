@@ -5,10 +5,10 @@
 ## [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) (Coursera.org)
 
 **OBJECTIVES:**
-1. Understand the fundamentals of Linear Algebra.
-2. Translate into the basics of Machine Learning.
-3. Develop interactive exercises.
-4. Document using Jupyter Notebooks.
+1. Understand the fundamentals of Linear Algebra and its partner, Multivariant Calculus.
+2. Translate into the basics of Neural Networks and Machine Learning.
+3. Develop interactive exercises for a variety of questions and answers.
+4. Document using block code and Jupyter Notebooks.
 5. Plan weekly study times, ask question and network!
 
 **REFERENCES:**
