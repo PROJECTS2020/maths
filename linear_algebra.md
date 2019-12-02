@@ -24,7 +24,7 @@
 Instructor: *Say I go shopping on two occasions, and I buy apples and bananas, and the first time I buy two apples and three bananas and they cost eight Euros. And the second time I buy say, ten apples and one banana, and the cost is 13 Euros. And the As and the Bs here, are the price of a single apple and a single banana. In these "simultaneous equations", how would you discover the price of individual apples and bananas?*
 
 ```
-2a + 2b = 8USD
+2a + 3b = 8USD
 (English: Two apples plus two bananas equal eight U.S. dollars.)
 
 10a + 1b = 13USD
