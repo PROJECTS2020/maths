@@ -46,6 +46,9 @@ matrix problem: (matrix)[vector] = [vector]
 
 ( 2  3 ) [ a ] = [ 8 ]
   10 1     b       13 
+  
+\left(\frac{x^2}{3y^2-2} \right)^2
+
 ```
 
 >**Exercise #2 - Fitting an Equation to Some Data (Optimization Problem)**
