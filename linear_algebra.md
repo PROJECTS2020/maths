@@ -49,6 +49,7 @@ matrix problem: (matrix)[vector] = [vector]
   
 $ \displaystyle f(g(x)) $
 \left(\frac{x^2}{3y^2-2} \right)^2
+$$\LaTeX$$ 
 
 ```
 
