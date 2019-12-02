@@ -51,6 +51,8 @@ $ \displaystyle f(g(x)) $
 \left(\frac{x^2}{3y^2-2} \right)^2
 $$\LaTeX$$ 
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=(&space;2,&space;3,&space;10,&space;1)&space;[&space;a,b&space;]&space;=&space;[&space;8,&space;13&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(&space;2,&space;3,&space;10,&space;1)&space;[&space;a,b&space;]&space;=&space;[&space;8,&space;13&space;]" title="( 2, 3, 10, 1) [ a,b ] = [ 8, 13 ]" /></a>
+
 ```
 
 >**Exercise #2 - Fitting an Equation to Some Data (Optimization Problem)**
