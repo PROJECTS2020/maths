@@ -47,6 +47,7 @@ matrix problem: (matrix)[vector] = [vector]
 ( 2  3 ) [ a ] = [ 8 ]
   10 1     b       13 
   
+$ \displaystyle f(g(x)) $
 \left(\frac{x^2}{3y^2-2} \right)^2
 
 ```
